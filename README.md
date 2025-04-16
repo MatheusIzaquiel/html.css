@@ -3,4 +3,4 @@
  
  Estudando gerenciamento no repositório
 
- <a hrfe="https://matheusizaquiel.github.io/html.css/desafio/desafio1"> Desafio 1 </a>
+ <a href="https://matheusizaquiel.github.io/html.css/desafio/desafio1/index.html"> Desafio 1 </a>
